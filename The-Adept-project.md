@@ -1,8 +1,9 @@
 ## Vision ##
-Adept should always strive to a dependency management system which is:
-1. *fast*
-2. *predicable*
-3. *debuggable*
+Adept should always strive to be a dependency management system which is:
+
+1. *FAST*
+2. *PREDICABLE*
+3. *DEBUGGABLE*
 
 ## Scope ##
 
