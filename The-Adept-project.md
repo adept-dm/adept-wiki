@@ -1,8 +1,8 @@
 ## Vision ##
 Adept should always strive to be a dependency management system which is:
 
-1. *FAST*
-2. *PREDICABLE*
+1. *PREDICABLE*
+2. *FAST*
 3. *DEBUGGABLE*
 
 ## Scope ##
