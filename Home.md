@@ -13,4 +13,4 @@ adept does not build your project or have plugins.
 
 It is still flexible through its API which is extensible and composable.
 
-Continue reading more about the [design](/Design)
+Continue reading more about the [design](https://github.com/adept-dm/adept/wiki/Design)
