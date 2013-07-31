@@ -8,6 +8,12 @@ Adept should always strive to be a dependency management system:
 3. makes it easy to **DISCOVER** new dependencies
 4.  which is **DEBUGGABLE**
 
+
+
+
+<br/>
+<br/>
+
 ## Learn more
 
 | Technical Docs                  | Setup Guide               | Roadmap                 | Contributing                      |
