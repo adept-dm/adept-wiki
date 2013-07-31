@@ -1,4 +1,6 @@
 ## Vision ##
+<img src="https://raw.github.com/wiki/adept-dm/adept/images/logo_adept_hood.png"
+ alt="Adept logo" title="Adept" align="right" />
 Adept should always strive to be a dependency management system:
 
 1.  which is **PREDICABLE**
