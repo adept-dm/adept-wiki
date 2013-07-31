@@ -7,9 +7,9 @@ Adept-core contains the core [models](http://adept-dm.github.io/adept/scaladoc/a
 
 Currently it also contains what is needed to [import from Ivy](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.ivy.IvyImport$)
 
-Scaladoc is available [here](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html)
-
 Read more about the core design [here](/adept-dm/adept/wiki/Design). 
+
+Scaladoc is available [here](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html)
 
 
 ### Adept CLI (adept-cli)
