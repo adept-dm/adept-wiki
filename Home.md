@@ -1,3 +1,20 @@
+## Vision ##
+Adept should always strive to be a dependency management system:
+
+1.  which is **PREDICABLE**
+2.  which is **FAST**
+3. makes it easy to **DISCOVER** new dependencies
+4.  which is **DEBUGGABLE**
+
+## Scope ##
+
+What Adept does is to get the jars you need in a quick and reliable manner.
+Adept also makes it possible to discover and debug dependencies.
+
+Adept does **not** build your project or have plugins. 
+
+Adept is flexible through its API which is **extensible** and **composable**.
+
 ## Find out more
 
 | Technical Docs                  | Setup Guide               | Roadmap                 | Contributing                      |
