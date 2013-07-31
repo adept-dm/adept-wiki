@@ -17,13 +17,15 @@ The modules are identified by [coordinates](http://adept-dm.github.io/adept/scal
 
 The unique id is a string that makes it possible to **uniquely identify** the module in the current repository. The unique ids makes it possible for adept to know exactly which module was used.
 
-A module has [artifacts](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Artifact), [dependencies](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Dependency), [configurations](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Configuration) and [overrides](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Override).
+A module has [artifacts](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Artifact), [dependencies](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Dependency), [configurations](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Configuration), [overrides](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Override) and [universes](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Universe).
 
 **Artifacts** includes a **hash** and a **location**. The hash is unique for the actual file represented by the artifact. This enables adept to efficiently cache artifacts.
 
 **Dependencies** points to **other** modules. 
 
 **Overrides** overrides dependencies in other modules. It commonly makes it possible to overwrite a version in other dependencies, with depending on the dependency.
+
+**Universes** describes which other modules the current module can work together with. An example of a universe is `scala-version`. Scala is binary incompatibility across major versions (2.10.1 works with 2.10.2, but not with 2.11.1), which requires a module in the scala-version universe 2.10, to only find other modules in the same universe.
 
 Based on **configurations** and [exclusion rules](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.DependencyExclusionRule) a [tree](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Tree) will be built.
 
