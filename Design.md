@@ -29,7 +29,7 @@ Based on **configurations** and [exclusion rules](http://adept-dm.github.io/adep
 
 
 
-Configurations makes it possible to determine which artifacts and dependencies should be included in the tree. Read more about how configurations work in adept here (todo do this and link).
+Configurations makes it possible to determine which artifacts and dependencies should be included in the tree. Read more about how configurations work in adept [here](/adept-dm/adept/wiki/Configurations).
 
 **Exclusion rules** makes it possible to **exclude transitive dependencies**. Transitive dependencies are the dependencies introduced from a given dependency.
 
