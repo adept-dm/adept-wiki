@@ -11,7 +11,7 @@ Adept stores **meta-data** and **artifacts** separately: **meta-data** is versio
 
 An example of a repository is [here](https://github.com/freekh/adept-central).
 
-The meta-data is composed [modules](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Module). The modules currently are stored in **json** files ([example](https://github.com/freekh/adept-central/blob/master/com.typesafe.akka/akka-actor_2.10/2.1.0/modules.json)).
+The meta-data is composed [modules](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Module). The modules currently are stored in **json** files ([example](https://github.com/freekh/adept-central/blob/master/play/play/2.1.1/modules.json)).
 
 The modules are identified by [coordinates](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Coordinates) and a [unique id](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.UniqueId). The coordinates determine where in a repository a module is stored.
 
