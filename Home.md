@@ -9,10 +9,15 @@ Adept should always strive to be a dependency management system:
 4.  which is **DEBUGGABLE**
 
 
+## Scope ##
 
+What Adept does is to get the jars you need in a quick and reliable manner.
+Adept also makes it possible to discover and debug dependencies.
 
-<br/>
-<br/>
+Adept does **not** build your project or have plugins. 
+
+Adept is flexible through its API which is **extensible** and **composable**.
+
 
 ## Learn more
 
@@ -22,15 +27,6 @@ Adept should always strive to be a dependency management system:
 | **[Technical Docs] [techdocs]** | **[Setup Guide] [setup]** | **[Roadmap] [roadmap]** | **[Contributing] [contributing]** |
 
 
-
-## Scope ##
-
-What Adept does is to get the jars you need in a quick and reliable manner.
-Adept also makes it possible to discover and debug dependencies.
-
-Adept does **not** build your project or have plugins. 
-
-Adept is flexible through its API which is **extensible** and **composable**.
 
 
 [techdocs]: https://github.com/adept-dm/adept/wiki/Docs
