@@ -9,6 +9,9 @@ Adept should always strive to be a dependency management system:
 4.  which is **DEBUGGABLE**
 
 
+
+
+
 ## Scope ##
 
 What Adept does is to get the jars you need in a quick and reliable manner.
