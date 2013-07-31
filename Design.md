@@ -11,7 +11,7 @@
 ## In depth
 Adept stores **meta-data** and **artifacts** separately: **meta-data** is versioned and stored in **git**. The versioned data enables adept to know exactly which version of the meta-data it was using at any given time.
 
-The meta-data is composed **[modules](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Module]**. The modules currently are stored in **json** files.
+The meta-data is composed [modules**](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Module]. The modules currently are stored in **json** files.
 
 The modules are identified by **coordinates** (scaladoc) and a **unique id**. The coordinates determine where in a repository a module is stored.
 
