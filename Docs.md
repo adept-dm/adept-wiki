@@ -9,15 +9,12 @@ Currently it also contains what is needed to [import from Ivy](http://adept-dm.g
 
 Scaladoc is available [here](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html)
 
-
-
-
-
 Read more about the core design [here](/adept-dm/adept/wiki/Design). 
 
 
 ### Adept CLI (adept-cli)
-This project contains command line interface (CLI)
+This project contains command line interface (CLI).
+
 Read about how to get started with the CLI [here](/adept-dm/adept/wiki/Design)
 
 Scaladoc is available [here](http://adept-dm.github.io/adept/scaladoc/adept-cli/index.html)
