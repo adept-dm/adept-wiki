@@ -6,7 +6,7 @@
 * **Module** contains information needed to create the classpath such as: dependencies to other modules and the locations of artifacts
 * **Build tools**, such as SBT, Gradle (not currently supported), Ant (not currently supported) uses Adept to create their classpath based on a set of modules
 
-
+## In depth
 Adept stores **meta-data** and **artifacts** separately: **meta-data** is versioned and stored in **git**. The versioned data enables adept to know exactly which version of the meta-data it was using at any given time.
 
 The meta-data is composed [modules](http://adept-dm.github.io/adept/scaladoc/adept-core/index.html#adept.core.models.Module). The modules currently are stored in **json** files.
