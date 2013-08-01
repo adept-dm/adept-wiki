@@ -15,12 +15,13 @@ All great open source projects has great documentation.
 
 Found a typo or do you feel the urge to fix an explanation somewhere? 
 
-Create an issue and add what you want you to fix. Github does not support pull requests for the wiki yet, therefore there is a separate repository here: ```https://github.com/adept-dm/adept-wiki``` where pull requests are welcomed. 
+Github does not support pull requests for the wiki yet, therefore there is a separate repository here: ```https://github.com/adept-dm/adept-wiki``` where pull requests are welcomed. 
 
 You need to make sure the the adept-wiki repository is up-to-date. 
+
 Follow these steps to pull and merge the latest from the wiki:
-```git remote add original git@github.com:adept-dm/adept.wiki.git # only needed first time```
-```git pull original master```
+- ```git remote add original git@github.com:adept-dm/adept.wiki.git # only needed first time```
+- ```git pull original master```
 
 
 Then follow the PR procedure as described below.
