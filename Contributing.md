@@ -2,8 +2,17 @@ Adept is currently in the proposal and discussion stage and needs your involveme
 
 If you want to learn how to develop in Scala, SBT, Gradle or Ant, then Adept should be a perfect place for you to start.
 
-
 Discuss existing and propose new ideas on the development [mailing list] [mailinglist]
+
+## Trying it out
+### Setup a new project
+Head over to the [[Setup]] documentation to learn more.
+
+### Sample project
+You can also try out the `sample` project in the `adept/adept-sbt/sample` folder.
+
+To try it out: simply move to the `sample` folder ([on github](https://github.com/adept-dm/adept/tree/master/adept-sbt/sample)) and run `sbt compile`.
+
 
 ## Bugs
 Found a bug? That is great!
@@ -49,16 +58,6 @@ To compile, run `compile` in the sbt prompt. To test, execute `test`.
 
 If you are working on a specific project, use the `project` keyword to move to that project like this:
 ```project adept-core```
-
-
-## Trying it out
-### Setup a new project
-Head over to the [[Setup]] documentation to learn more.
-
-### Sample project
-You can also try out the `sample` project in the `adept/adept-sbt/sample` folder.
-
-To try it out: simply move to the `sample` folder ([on github](https://github.com/adept-dm/adept/tree/master/adept-sbt/sample)) and run `sbt compile`.
 
 
 ## Contributors
