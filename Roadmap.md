@@ -8,7 +8,7 @@ Below is a general plan for the upcoming versions, for a more in-the-depth plan 
 **Alpha (0.8)**
 - Feature parity with Ivy and Maven
 - Basic support for Adept in 2 build tools: SBT, Gradle
-- Still changing APIs and meta-data
+- Feature complete, but will still changing APIs and meta-data
 
 **Beta (0.9)**
 - Stable APIs
@@ -19,7 +19,7 @@ Below is a general plan for the upcoming versions, for a more in-the-depth plan 
 **1.0**
 - Performance issues fixed
 - No critical bugs (2 weeks)
-- 20 popular (~200 stars on Github) projects that publishes to Adept
+- 20 popular (~200 stars on Github) projects that publishes to Adept and are happy with it
 - Meta-data repositories for the most "commonly" used modules
 - Easy to create Adept repositories
 - Adept works together with other dependency management systems (Ivy,Maven) in build tools
