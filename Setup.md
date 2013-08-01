@@ -14,6 +14,8 @@ addSbtPlugin("org.adept" % "adept-sbt" % "0.8.0-PRE-ALPHA-20130727185333")
 
 Then you have to add the adept settings, **either** in a `*.scala` file or in a `*.sbt` file.
 
+Check out bintray to find more recent releases: https://bintray.com/freekh/adept-ivy/adept-sbt
+
 ### .sbt files
 If you have **.sbt** (e.g. `build.sbt`) file do the following:
 - add settings:
