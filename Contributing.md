@@ -55,4 +55,9 @@ If you are working on a specific project, use the `project` keyword to move to t
 Head over to the [[Setup]] documentation to learn more.
 
 
+## Contributors
+- **Fredrik Ekholdt**: adept-core, first version of adept-sbt
+- **Tomas Herman**: adept-cli
+
+
 [mailinglist]: http://groups.google.com/group/adept-dev/
