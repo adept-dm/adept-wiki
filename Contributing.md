@@ -13,6 +13,19 @@ You can also try out the `sample` project in the `adept/adept-sbt/sample` folder
 
 To try it out: simply move to the `sample` folder ([on github](https://github.com/adept-dm/adept/tree/master/adept-sbt/sample)) and run `sbt compile`.
 
+## Building
+[![Build Status](https://travis-ci.org/adept-dm/adept.png?branch=master)](https://travis-ci.org/adept-dm/adept)
+
+To build you need to install sbt: [http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html#installing-sbt]. 
+
+Then you simply start up sbt on your command line inside the adept directory:
+`sbt`
+
+To compile, run `compile` in the sbt prompt. To test, execute `test`.
+
+If you are working on a specific project, use the `project` keyword to move to that project like this:
+```project adept-core```
+
 
 ## Bugs
 Found a bug? That is great!
@@ -45,19 +58,6 @@ Be sure to read the [[Design]] documentation to understand how Adept is built.
 
 Also, try to follow the [boy scout rule of programming](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule) each time you do a pull request.
 
-
-## Building
-[![Build Status](https://travis-ci.org/adept-dm/adept.png?branch=master)](https://travis-ci.org/adept-dm/adept)
-
-To build you need to install sbt: [http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html#installing-sbt]. 
-
-Then you simply start up sbt on your command line inside the adept directory:
-`sbt`
-
-To compile, run `compile` in the sbt prompt. To test, execute `test`.
-
-If you are working on a specific project, use the `project` keyword to move to that project like this:
-```project adept-core```
 
 
 ## Contributors
