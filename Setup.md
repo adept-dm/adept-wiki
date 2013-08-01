@@ -2,6 +2,8 @@ Currently CLI and other build tool plugins are under construction, so only SBT i
 
 If you want to help out and add support for more, be sure to read the [[Contributing]] section!
 
+For **examples**, see projects using Adept here: [[Example-Projects]]
+
 ## Setup SBT
 Add or open up the existing `project/plugins.sbt` file and add the following lines:
 
@@ -73,5 +75,3 @@ adept-ivy-add
 ```
 
 This will add your dependencies to the `local` repositories under (`~/.adept/repos/local`).
-
-See projects using Adept here: [[Example-Projects]]
