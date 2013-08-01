@@ -16,7 +16,7 @@ addSbtPlugin("org.adept" % "adept-sbt" % "0.8.0-PRE-ALPHA-20130727185333")
 
 Then you have to add the adept settings, either in a `*.scala` file or in a `*.sbt` file.
 
-If you have ***.sbt** (e.g. `build.sbt`) file do the following:
+If you have **.sbt** (e.g. `build.sbt`) file do the following:
 - add settings:
 ```scala
 import adept.sbt.AdeptKeys._
@@ -32,7 +32,7 @@ adeptDependencies ++= Seq(
 )
 ```
 
-If you have a ***.scala** (e.g. `project/Build.scala`) file do the following:
+If you have a **.scala** (e.g. `project/Build.scala`) file do the following:
 - add imports:
 ```scala
 import adept.sbt.AdeptKeys._
