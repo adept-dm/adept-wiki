@@ -54,6 +54,10 @@ If you are working on a specific project, use the `project` keyword to move to t
 ## Trying it out
 Head over to the [[Setup]] documentation to learn more.
 
+You can also try out the `sample` project in the `adept/adept-sbt/sample` folder.
+
+To try it out: simply move to the folder and run `sbt compile`.
+
 
 ## Contributors
 - **Fredrik Ekholdt**: adept-core, first version of adept-sbt
