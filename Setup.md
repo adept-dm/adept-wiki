@@ -52,6 +52,17 @@ Defaults.defaultSettings ++ adeptSettings
   )
 ```
 
+### Compiling and inspecting the tree
+After having setup the adept plugin you should be able to execute in sbt: 
+```scala
+compile```
+
+Another interesting thing you can do is to inspect the dependency tree from sbt:
+```scala
+adept-tree
+```
+This will give you information not only about which dependencies you have, but also information about the dependencies that was evicted.
+
 ### Migrating from Ivy
 If the dependencies you are requiring are not available in an adept repository yet (check out [Repositories] for more information), you can **import dependencies using Ivy**.
 
