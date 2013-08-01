@@ -58,7 +58,7 @@ Head over to the [[Setup]] documentation to learn more.
 ### Sample project
 You can also try out the `sample` project in the `adept/adept-sbt/sample` folder.
 
-To try it out: simply move to the folder and run `sbt compile`.
+To try it out: simply move to the `sample` folder ([on github](https://github.com/adept-dm/adept/tree/master/adept-sbt/sample)) and run `sbt compile`.
 
 
 ## Contributors
