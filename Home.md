@@ -36,7 +36,7 @@ Adept is flexible through its API which is **extensible** and **composable**.
 [techdocs]: https://github.com/adept-dm/adept/wiki/Docs
 [setup]: https://github.com/adept-dm/adept/wiki/Setup
 [roadmap]: https://github.com/adept-dm/adept/wiki/Roadmap
-[contributing]: https://github.com/adept-dm/adept/wiki/Contribute
+[contributing]: https://github.com/adept-dm/adept/wiki/Contributing
 
 [techdocs-image]: https://github.com/adept-dm/adept/wiki/images/techdocs.png
 [setup-image]: https://github.com/adept-dm/adept/wiki/images/setup.png
