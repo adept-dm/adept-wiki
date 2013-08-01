@@ -3,7 +3,7 @@ Current roadmap does not have any dates, since the project is just starting up.
 
 **We need your support**: go visit the [[Contributing]] section to see how you can help!
 
-Below is a general plan for the upcoming versions, for a more in-the-depth plan check out the [milestone](/adept-dm/adept/issues/milestones)
+Below is a general plan for the upcoming versions, for a more in-the-depth plan check out the [milestones](/adept-dm/adept/issues/milestones)
 
 **Alpha (0.8)**
 - Feature parity with Ivy and Maven
