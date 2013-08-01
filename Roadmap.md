@@ -1,4 +1,5 @@
 Current roadmap does not have any dates, since the project is just starting up. 
+We need your support: go visit the [[Contribute]] section to see how you can help!
 
 **Alpha (0.8)**
 - Feature parity with Ivy and Maven
