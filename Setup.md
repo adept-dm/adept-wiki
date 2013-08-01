@@ -55,7 +55,8 @@ Defaults.defaultSettings ++ adeptSettings
 ### Compiling and inspecting the tree
 After having setup the adept plugin you should be able to execute in sbt: 
 ```scala
-compile```
+compile
+```
 
 Another interesting thing you can do is to inspect the dependency tree from sbt:
 ```scala
