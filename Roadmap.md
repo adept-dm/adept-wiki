@@ -1,17 +1,17 @@
 Current roadmap does not have any dates, since the project is just starting up. 
 
-Alpha (0.8)
+**Alpha (0.8)**
 - Feature parity with Ivy and Maven
 - Basic support for Adept in 2 build tools: SBT, Gradle
 - Still changing APIs and meta-data
 
-Beta (0.9)
+**Beta (0.9)**
 - Stable APIs
 - Stable meta-data
 - Common performance issues identified
 - Versioning: Adept can migrate from one version to another safely
 
-1.0
+**1.0**
 - Performance issues fixed
 - No critical bugs (2 weeks)
 - 20 popular (~200 stars on Github) projects that publishes to Adept
