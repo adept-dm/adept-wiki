@@ -52,12 +52,7 @@ If you are working on a specific project, use the `project` keyword to move to t
 
 
 ## Trying it out
-### SBT
-
-Read up on using SBT with Adept [here](/adept-dm/adept/wiki/SBT-TryingOut).
-
-Be sure to have a look at the **converted projects** [here](/adept-dm/adept/wiki/SBT-Examples) and read up on the [migration guide from Ivy](SBTIvyMigration)
-
+Head over to the [[Setup]] documentation to learn more.
 
 
 [mailinglist]: http://groups.google.com/group/adept-dev/
