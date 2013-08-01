@@ -10,6 +10,21 @@ Found a bug? That is great!
 
 Make sure the bug has simplest reproduction steps you could think of and submit it on the [Github issue tracker](/adept-dm/adept/issues)
 
+## Docs
+All great open source projects has great documentation. 
+
+Found a typo or do you feel the urge to fix an explanation somewhere? 
+
+Create an issue and add what you want you to fix. Github does not support pull requests for the wiki yet, therefore there is a separate repository here: ```https://github.com/adept-dm/adept-wiki``` where pull requests are welcomed. 
+
+You need to make sure the the adept-wiki repository is up-to-date. 
+Follow these steps to pull and merge the latest from the wiki:
+```git remote add original git@github.com:adept-dm/adept.wiki.git # only needed first time```
+```git pull original master```
+
+
+Then follow the PR procedure as described below.
+
 ## Submitting PRs
 Submitting pull requests are done using the normal [Github procedure](https://help.github.com/articles/using-pull-requests).
 
