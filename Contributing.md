@@ -10,6 +10,22 @@ Found a bug? That is great!
 
 Make sure the bug has simplest reproduction steps you could think of and submit it on the [Github issue tracker](/adept-dm/adept/issues)
 
+## Docs
+All great open source projects has great documentation. 
+
+Found a typo or do you feel the urge to fix an explanation somewhere? 
+
+Github does not support pull requests for the wiki yet, therefore there is a separate repository here: ```https://github.com/adept-dm/adept-wiki``` where pull requests are welcomed. 
+
+You need to make sure the the adept-wiki repository is up-to-date. 
+
+Follow these steps to pull and merge the latest from the wiki:
+- ```git remote add original git@github.com:adept-dm/adept.wiki.git # only needed first time```
+- ```git pull original master```
+
+
+Then follow the PR procedure as described below.
+
 ## Submitting PRs
 Submitting pull requests are done using the normal [Github procedure](https://help.github.com/articles/using-pull-requests).
 
@@ -36,12 +52,12 @@ If you are working on a specific project, use the `project` keyword to move to t
 
 
 ## Trying it out
-### SBT
+Head over to the [[Setup]] documentation to learn more.
 
-Read up on using SBT with Adept [here](/adept-dm/adept/wiki/SBT-TryingOut).
 
-Be sure to have a look at the **converted projects** [here](/adept-dm/adept/wiki/SBT-Examples) and read up on the [migration guide from Ivy](SBTIvyMigration)
-
+## Contributors
+- **Fredrik Ekholdt**: adept-core, first version of adept-sbt
+- **Tomas Herman**: adept-cli
 
 
 [mailinglist]: http://groups.google.com/group/adept-dev/
