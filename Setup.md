@@ -74,3 +74,4 @@ adept-ivy-add
 
 This will add your dependencies to the `local` repositories under (`~/.adept/repos/local`).
 
+See projects using Adept here: [[Example-Projects]]
