@@ -12,7 +12,7 @@ Head over to the [[Setup]] documentation to learn more.
 You can also try out the `sample` project in the `adept/adept-sbt/sample` folder.
 
 
-Make sure you have setup [sbt]([http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html#installing-sbt]), then simply move to the `sample` folder ([on github](https://github.com/adept-dm/adept/tree/master/adept-sbt/sample)) and run `sbt compile`.
+Make sure you have setup [sbt]([http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html#installing-sbt]), then simply move to the `sample` folder (see it on [github](https://github.com/adept-dm/adept/tree/master/adept-sbt/sample)) and run `sbt compile`.
 
 ## Building
 [![Build Status](https://travis-ci.org/adept-dm/adept.png?branch=master)](https://travis-ci.org/adept-dm/adept)
