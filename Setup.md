@@ -65,7 +65,7 @@ adept-tree
 This will give you information not only about which dependencies you have, but also information about the dependencies that was evicted.
 
 ### Migrating from Ivy
-If the dependencies you are requiring are not available in an adept repository yet (check out [Repositories] for more information), you can **import dependencies using Ivy**.
+If the dependencies you are requiring are not available in an adept repository yet (check out [[Repositories]] for more information), you can **import dependencies using Ivy**.
 
 After setting up your project and entered your `adeptDependencies` simply enter the following command in the sbt prompt:
 ```scala
@@ -74,7 +74,3 @@ adept-ivy-add
 
 This will add your dependencies to the `local` repositories under (`~/.adept/repos/local`).
 
-
-### Example projects
-- Play20 with Adept (a normal project): https://github.com/freekh/Play20/tree/adept
-- sbteclipse with Adept (a SBT plugin): https://github.com/freekh/sbteclipse/tree/v2.1.1-adept
