@@ -24,10 +24,10 @@ adeptSettings
 ```
 - add repositories and dependencies:
 ```scala
-adeptRepositories += "central" -> "git@github.com:freekh/adept-central.git"
+adeptRepositories += "central" -> "git@github.com:freekh/adept-central.git" //<- JUST AN EXAMPLE
 
 adeptDependencies ++= Seq(
-  "play" % "play_2.10" % "2.1.2" % "test"
+  "play" % "play_2.10" % "2.1.2" % "test" //<- JUST AN EXAMPLE
 )
 ```
 
@@ -44,9 +44,9 @@ Defaults.defaultSettings ++ adeptSettings
 ```
 - add a repository and the adeptDependencies:
 ```scala
-  adeptRepositories += "central" -> "git@github.com:freekh/adept-central.git" //just an example
+  adeptRepositories += "central" -> "git@github.com:freekh/adept-central.git" //<- JUST AN EXAMPLE
   adeptDependencies ++= Seq(
-     "com.github.scala-incubator.io"     %%   "scala-io-file"            %   "0.4.1" exclude("javax.transaction", "jta")
+     "com.github.scala-incubator.io"     %%   "scala-io-file"            %   "0.4.1" exclude("javax.transaction", "jta") //<- JUST AN EXAMPLE
   )
 ```
 
